@@ -21,7 +21,7 @@
 
 [Урок 2. Основы языка разметки документов HTML](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2)
 
-* [Практическое задание к уроку 2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2)
+* [Практическое задание к уроку 2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2/PRACTICAL)
 
 [Урок 3. Основы языка оформления стилей документа CSS]()
 
