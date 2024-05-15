@@ -2,7 +2,9 @@
 
 ***[Урок 1. Лекция. Введение и Основы HTML](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_1)***
 
-***[Урок 2. Семинар. Введение и Основы HTML]()***
+***[Урок 2. Семинар. Введение и Основы HTML](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2-2)***
+
+* ***[Практическое задание к уроку № 2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2-2)***
 
 ***[Урок 2. Семинар. Введение и Основы HTML (практическая работа)]()***
 
