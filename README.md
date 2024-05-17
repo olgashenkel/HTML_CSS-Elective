@@ -22,7 +22,7 @@
 
 * [Практическое задание к уроку № 2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2-1/PRACTICAL)
 
-[Урок 3. Основы языка оформления стилей документа CSS]()
+[Урок 3. Основы языка оформления стилей документа CSS](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-1)
 
 [Урок 4. Основные тэги для вёрстки, Псевдоклассы и псевдоэлементы]()
 
