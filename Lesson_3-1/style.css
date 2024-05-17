@@ -1,0 +1,46 @@
+p {
+    color: cornflowerblue;
+}
+
+h1 {
+    background-color: darkgray;
+}
+
+.heading {
+    color: purple;
+}
+
+.back-grey {
+    background-color: grey;
+}
+
+
+.input[type="text"] {
+    color: red;
+}
+
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663219930_12-mykaleidoscope-ru-p-rasteniya-dlya-yaponskogo-sada-krasivo-15.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+.text {
+    color: blue;
+    font-family: serif;
+}
+
+.list {
+    list-style-type: none;
+}
