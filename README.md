@@ -24,6 +24,8 @@
 
 [Урок 3. Основы языка оформления стилей документа CSS](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-1)
 
+* [Практическое задание к уроку № 3](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-1/_PRACTICAL)
+
 <!-- [Урок 4. Основные тэги для вёрстки, Псевдоклассы и псевдоэлементы]()
 
 [Урок 5. Основы позиционирования, работа с Flexbox]()
