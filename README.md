@@ -6,11 +6,11 @@
 
 * ***[Практическое задание к уроку № 2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_2-2)***
 
-***[Урок 3. Лекция. Основы CSS](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-2)***
+***[Урок 3. Лекция. Основы CSS. <br> Урок 4. Семинар. Основы CSS](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-2)***
 
-* ***[Практическое задание к уроку № 3](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-2)***
+* ***[Практическое задание к уроку № 4](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-2)***
 
-<!-- ***[Урок 4. Семинар. Основы CSS]()*** -->
+
 
 
 ----
