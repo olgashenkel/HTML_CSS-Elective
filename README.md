@@ -28,9 +28,11 @@
 
 * [Практическое задание к уроку № 3](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-1/_PRACTICAL)
 
-<!-- [Урок 4. Основные тэги для вёрстки, Псевдоклассы и псевдоэлементы]()
+[Урок 4. Основные тэги для вёрстки, Псевдоклассы и псевдоэлементы](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_4-1)
 
-[Урок 5. Основы позиционирования, работа с Flexbox]()
+* [Практическое задание к уроку № 4](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_4-1/_PRACTICAL)
+
+<!-- [Урок 5. Основы позиционирования, работа с Flexbox]()
 
 [Урок 6. Работа с макетом дизайна в формате Figma]()
 
