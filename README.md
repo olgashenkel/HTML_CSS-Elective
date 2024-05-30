@@ -32,9 +32,11 @@
 
 * [Практическое задание к уроку № 4](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_4-1/_PRACTICAL)
 
-<!-- [Урок 5. Основы позиционирования, работа с Flexbox]()
+[Урок 5. Основы позиционирования, работа с Flexbox](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_5-1)
 
-[Урок 6. Работа с макетом дизайна в формате Figma]()
+* [Практическое задание к уроку № 5](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_5-1/_PRACTICAL)
+
+<!-- [Урок 6. Работа с макетом дизайна в формате Figma]()
 
 [Урок 7. Основы создания адаптивного сайта]()
 
