@@ -36,8 +36,10 @@
 
 * [Практическое задание к уроку № 5](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_5-1/_PRACTICAL)
 
-<!-- [Урок 6. Работа с макетом дизайна в формате Figma]()
+[Урок 6. Работа с макетом дизайна в формате Figma](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_6-1)
 
-[Урок 7. Основы создания адаптивного сайта]()
+* [Практическое задание к уроку № 5](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_6-1/_PRACTICAL)
+
+<!-- [Урок 7. Основы создания адаптивного сайта]()
 
 [Урок 8. Стандарты web и вспомогательные инструменты]() -->
