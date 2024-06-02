@@ -10,6 +10,10 @@
 
 * ***[Практическое задание к уроку № 4](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_3-2)***
 
+***[Урок 5. Лекция. Работа с макетом и cоздание блочной структуры. <br> Урок 6. Семинар. Работа с макетом и cоздание блочной структуры](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_6-2)***
+
+* ***[Практическое задание к уроку № 6](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_6-2)***
+
 
 
 
