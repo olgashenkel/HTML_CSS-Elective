@@ -14,6 +14,14 @@
 
 * ***[Практическое задание к уроку № 6](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_6-2)***
 
+***[Урок 7. Лекция. Основы позиционирования. <br> Урок 8. Семинар. Основы позиционирования ](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_8-2)***
+
+* ***[Практическое задание к уроку № 8](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_8-2)***
+
+***[Урок 9. Семинар. Основы позиционирования ч.2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_9-2)***
+
+* ***[Практическое задание к уроку № 9](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_9-2)***
+
 
 
 
