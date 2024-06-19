@@ -52,6 +52,9 @@
 
 * [Практическое задание к уроку № 6](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_6-1/_PRACTICAL)
 
-<!-- [Урок 7. Основы создания адаптивного сайта]()
+[Урок 7. Основы создания адаптивного сайта](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_7-1)
 
+* [Практическое задание к уроку № 7](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_7-1/_PRACTICAL)
+
+<!-- 
 [Урок 8. Стандарты web и вспомогательные инструменты]() -->
