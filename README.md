@@ -26,6 +26,10 @@
 
 * ***[Практическое задание к уроку № 11](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_11-2)***
 
+***[Урок 12. Семинар. Основы создания адаптивного сайта ч.2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_12-2)***
+
+* ***[Практическое задание к уроку № 12](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/Lesson_12-2)***
+
 
 
 
