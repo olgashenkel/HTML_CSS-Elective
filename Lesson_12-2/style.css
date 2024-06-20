@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+img {
+    max-width: 100%;
+}
+
 .center {
     padding-left: calc(50% - 573px);
     padding-right: calc(50% - 573px);
@@ -23,6 +27,7 @@ a {
     display: flex;
     justify-content: center;
     gap: 40px;
+    flex-wrap: wrap;
 }
 
 .header__link {
@@ -153,6 +158,44 @@ a {
     color: #FFFFFF;
 }
 
+.about {
+    margin-bottom: 221px;
+}
+
+.about__info {
+    width: 548px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.about__heading {
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.about__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    align-items: center;
+}
+
+.about__text {
+    width: 460px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
 @media (max-width: 1024px) {
     .center {
         padding-left: calc(50% - 376px);
@@ -173,7 +216,7 @@ a {
 
     .top__logos {
         gap: 32px;
-        min-width: 650px;
+        max-width: 650px;
         margin: auto;
     }
 
@@ -181,6 +224,7 @@ a {
         grid-template-columns: repeat(1, 362px);
         gap: 30px;
     }
+
     .item_big {
         grid-column: span 1;
         grid-row: span 1;
@@ -189,5 +233,89 @@ a {
 
     .item_big img {
         width: 98px;
+    }
+
+    .about__content {
+        gap: 64px;
+    }
+}
+
+@media (max-width: 767px) {
+    .center {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .header {
+        padding-top: 22px;
+        padding-bottom: 22px;
+        gap: 16px;
+    }
+
+    .header__link {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .top__content {
+        margin-top: 64px;
+    }
+
+    .top__info {
+        width: 100%;
+        text-align: center;
+    }
+
+    .top__buttons {
+        margin-top: 39px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 24px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+        margin-bottom: 16px;
+    }
+
+    .title {
+        font-size: 28px;
+        margin-bottom: 64px;
+    }
+
+    .text {
+        width: 100%;
+    }
+
+    .top {
+        padding-bottom: 108px;
+    }
+
+    .top__content {
+        margin-bottom: 128px;
+    }
+
+    .top__logo {
+        margin-right: auto;
+        margin-left: 24px;
+    }
+
+    .about__info {
+        width: 100%;
+        gap: 16px;
+        text-align: center;
+    }
+
+    .about__text {
+        width: 100%;
+    }
+
+    .about__heading {
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+
+    .about__content {
+        gap: 32px;
     }
 }
