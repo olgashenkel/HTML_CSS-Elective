@@ -6,15 +6,15 @@
 
 * ***[Практическое задание к уроку № 2](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_02-2)***
 
-***[Урок 3. Лекция. Основы CSS. <br> Урок 4. Семинар. Основы CSS](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_03-2)***
+***[Урок 3. Лекция. Основы CSS <br> Урок 4. Семинар. Основы CSS](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_03-2)***
 
 * ***[Практическое задание к уроку № 4](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_03-2)***
 
-***[Урок 5. Лекция. Работа с макетом и cоздание блочной структуры. <br> Урок 6. Семинар. Работа с макетом и cоздание блочной структуры](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_06-2)***
+***[Урок 5. Лекция. Работа с макетом и cоздание блочной структуры <br> Урок 6. Семинар. Работа с макетом и cоздание блочной структуры](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_06-2)***
 
 * ***[Практическое задание к уроку № 6](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_06-2)***
 
-***[Урок 7. Лекция. Основы позиционирования. <br> Урок 8. Семинар. Основы позиционирования ](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_08-2)***
+***[Урок 7. Лекция. Основы позиционирования <br> Урок 8. Семинар. Основы позиционирования](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_08-2)***
 
 * ***[Практическое задание к уроку № 8](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_08-2)***
 
@@ -22,7 +22,7 @@
 
 * ***[Практическое задание к уроку № 9](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_09-2)***
 
-***[Урок 10. Лекция. Основы создания адаптивного сайта ч.1. <br> Урок 11. Семинар. Основы создания адаптивного сайта ч.1](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_11-2)***
+***[Урок 10. Лекция. Основы создания адаптивного сайта ч.1 <br> Урок 11. Семинар. Основы создания адаптивного сайта ч.1](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_11-2)***
 
 * ***[Практическое задание к уроку № 11](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_11-2)***
 
@@ -30,9 +30,7 @@
 
 * ***[Практическое задание к уроку № 12](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_12-2)***
 
-***[Урок 13. Лекция. Структура html5 и методология БЭМ](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_14-2)***
-
-***[Урок 14. Семинар. Структура html5 и методология БЭМ](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_14-2)***
+***[Урок 13. Лекция. Структура html5 и методология БЭМ <br> Урок 14. Семинар. Структура html5 и методология БЭМ](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_14-2)***
 
 * ***[Практическое задание к уроку № 14](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_14-2)***
 
