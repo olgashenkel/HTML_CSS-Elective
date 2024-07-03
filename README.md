@@ -30,6 +30,10 @@
 
 * ***[Практическое задание к уроку № 12](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_12-2)***
 
+***[Урок 13. Лекция. Структура html5 и методология БЭМ](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_13-2)***
+
+* ***[Практическое задание к уроку № 13](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_13-2)***
+
 
 
 
