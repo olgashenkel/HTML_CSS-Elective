@@ -72,5 +72,5 @@
 
 * [Практическое задание к уроку № 7](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_07-1/_PRACTICAL)
 
-<!-- 
-[Урок 8. Стандарты web и вспомогательные инструменты]() -->
+
+[Урок 8. Стандарты web и вспомогательные инструменты](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-1/Lesson_08-1)
