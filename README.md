@@ -36,8 +36,11 @@
 
 ***[Урок 15. Лекция. Новые возможности CSS3 <br> Урок 16. Семинар. Новые возможности CSS3](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-2/Lesson_16-2)***
 
-* ***[Практическое задание к уроку № 14](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-2/Lesson_16-2)***
+* ***[Практическое задание к уроку № 16](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-2/Lesson_16-2)***
 
+***[Урок 17. Лекция. Проверка сайта на ошибки и вспомогательные инструменты <br> Урок 18. Семинар. Проверка сайта на ошибки и вспомогательные инструменты](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-2/Lesson_18-2)***
+
+* ***[Практическое задание к уроку № 18 (Промежуточная аттестация)](https://github.com/olgashenkel/HTML_CSS-Elective/tree/main/HTML_CSS-Elective-2/Lesson_18-2)***
 
 
 
